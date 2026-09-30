@@ -1,0 +1,2 @@
+# Core MVP uses only Python standard library.
+# Snapdragon model/runtime dependencies should be added after validating the target HP Snapdragon environment.

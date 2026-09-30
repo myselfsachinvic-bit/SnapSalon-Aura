@@ -1,0 +1,17 @@
+{
+  "application": "SnapSalon Aura",
+  "mode": "demo-local",
+  "target": "Snapdragon-powered HP Windows PC",
+  "vision_model": {
+    "name": "Qwen3-VL-4B-Instruct",
+    "provider": "Qualcomm AI Hub",
+    "runtime": "GenieX / QAIRT",
+    "status": "integration-ready"
+  },
+  "speech_model": {
+    "name": "Distil-Whisper",
+    "provider": "Qualcomm AI Hub",
+    "runtime": "ONNX Runtime / QNN",
+    "status": "integration-ready"
+  }
+}
